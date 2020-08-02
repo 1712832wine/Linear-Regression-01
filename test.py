@@ -30,7 +30,6 @@ x = x.astype(np.int)
 onehot_encoder = OneHotEncoder(dtype=int)
 onehot_encoder = onehot_encoder.fit(x)
 x = onehot_encoder.transform(x)
-
 #Linear LinearRegression
 model = LinearRegression().fit(x, y)
 print('score:',model.score(x,y))
