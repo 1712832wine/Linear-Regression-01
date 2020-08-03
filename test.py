@@ -5,6 +5,7 @@ from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import OneHotEncoder
 
 #Read Data
+##############
 x= []
 y= []
 with open('X_train.csv','rt') as f:
