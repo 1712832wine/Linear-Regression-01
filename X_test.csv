@@ -1,3 +1,11 @@
 id,manufacturer,model,transmission,color,odometer,year,engineFuel,engineType,engineCapacity,bodyType,drivetrain,photos,feature_0,feature_1,feature_2,feature_3,feature_4,feature_5,feature_6,feature_7,feature_8,feature_9
 1,Hyundai,i40,automatic,red,48000,2014,gasoline,gasoline,2.0,sedan,front,1,False,True,False,False,False,True,False,False,True,True
+2,Mitsubishi,Carisma,mechanical,green,320000,2000,diesel,diesel,1.9,hatchback,front,13,False,True,False,False,False,False,False,False,False,False
+3,Volkswagen,T5,mechanical,white,164000,2011,diesel,diesel,2.0,minibus,front,14,False,True,False,True,False,False,True,True,True,False
+4,Volkswagen,T4 Multivan,mechanical,blue,385672,1998,diesel,diesel,2.5,minibus,front,1,False,True,True,False,False,False,False,False,True,True
 5,Toyota,Camry,automatic,black,215652,2005,gasoline,gasoline,2.4,sedan,front,12,False,False,False,False,False,False,False,False,False,True
+6,Volkswagen,T4,mechanical,white,295000,2002,diesel,diesel,2.5,minibus,front,6,True,False,False,False,False,False,False,False,False,False
+7,Chery,A1,mechanical,orange,84384,2008,gasoline,gasoline,1.4,hatchback,front,7,False,True,True,True,False,True,False,False,False,True
+8,Volkswagen,T5,mechanical,white,385000,2004,diesel,diesel,1.9,van,front,4,False,True,False,False,False,True,False,False,False,False
+9,Toyota,Corolla,automatic,white,83400,2015,gasoline,gasoline,1.6,sedan,front,19,False,True,False,False,False,True,False,False,True,True
+10,Opel,Movano,mechanical,silver,345000,2002,diesel,diesel,2.2,minibus,front,1,True,False,False,False,False,False,False,False,False,False
