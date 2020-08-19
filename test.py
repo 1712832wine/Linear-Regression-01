@@ -59,13 +59,11 @@ print(x_train.info())
 x_train = x_train.drop('engineCapacity', axis=1, inplace=False)
 print(x_train.info())
 
-tempx, x_test, tempy, y_test = train_test_split(x_train, y_train, test_size=0.2)
+#tempx, x_test, tempy, y_test = train_test_split(x_train, y_train, test_size=0.2)
 
-#x_test = Read('X_test.csv') # data test
-#x_test= x_test.drop('engineCapacity', axis=1, inplace=False)
-#x_train = x_train.drop('feature_0', axis=1, inplace=False)
-#x_train = x_train.drop('odometer', axis=1, inplace=False)
-#y_test = Read('Y_test.csv') # label test
+x_test = Read('X_test.csv') # data test
+x_test= x_test.drop('engineCapacity', axis=1, inplace=False)
+y_test = Read('Y_test.csv') # label test
 
 
 
